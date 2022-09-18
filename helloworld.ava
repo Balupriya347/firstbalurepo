@@ -1,0 +1,6 @@
+public class helloworld{
+
+	public static voide main (string[] args) {
+	// prints "hello, world to the terminal window"
+
+:
